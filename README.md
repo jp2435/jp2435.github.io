@@ -1,4 +1,9 @@
 # jp2435.github.io
 
 
-## [Triângulo de Pascal](/triangulo-de-pascal)
+## Projects
+### [Pascal's triangle](/triangulo-de-pascal)
+- Project created to "draw" Pascal's Triangle. Made in JavaScript
+
+### [Starred-GH-Puppeteer](/Starred-GH-Puppeteer)
+
